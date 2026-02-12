@@ -21,7 +21,9 @@ Technologies Used
 -> CSS3
 
 
+
 Objective
+
 
 The purpose of this project is to demonstrate my understanding of core web development concepts and to establish a professional online presence.
 
