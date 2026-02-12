@@ -6,13 +6,17 @@ The website highlights my profile, technical skills, and project work while foll
 Key 
 
 -> Responsive and user-friendly layout
+
 -> Clean and professional UI design
+
 -> Well-structured and semantic HTML
+
 -> Organized and maintainable CSS styling
 
 Technologies Used
 
 -> HTML5
+
 -> CSS3
 
 
